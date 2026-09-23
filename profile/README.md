@@ -39,7 +39,7 @@ a team, with its own models, its own data, and its own rules.
 <div align="center">
 
   <a href="https://tinybig.ai/keep/">
-    <img src="https://raw.githubusercontent.com/tinybig-ai/.github/main/profile/assets/keep.png" width="72" alt="keep" />
+    <img src="https://raw.githubusercontent.com/tinybig-ai/.github/main/profile/assets/keep.svg" width="72" alt="keep" />
   </a>
 
   <h3><a href="https://tinybig.ai/keep/">keep</a></h3>
