@@ -29,8 +29,7 @@ a team, with its own models, its own data, and its own rules.
 
   <h3><a href="https://github.com/tinybig-ai/jep">jep</a></h3>
 
-  One interface for every coding agent. The core connects opencode, codex, and
-  claude. The Telegram, Android, and gateway clients use the core.
+  Drive opencode, codex, and claude (and more) from anywhere, through one interface.
 
 </div>
 
@@ -44,9 +43,7 @@ a team, with its own models, its own data, and its own rules.
 
   <h3><a href="https://tinybig.ai/keep/">keep</a></h3>
 
-  An offline knowledge app. The app has a local model and signed knowledge
-  packs, which we call casks. The app works without a network and without an
-  account.
+  Offline AI for your phone, backed by knowledge packs you download.
 
 </div>
 
