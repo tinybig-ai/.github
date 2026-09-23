@@ -6,8 +6,7 @@
 
   <h1>tinybig</h1>
 
-  <p>AI harnesses for individual power users.</p>
-  <p>Multi-model. MCP-native. Local-first.</p>
+  <p>AI harnesses for individual power users. Multi-model. Local-first.</p>
 
   <p>
     <a href="https://tinybig.ai"><img alt="tinybig.ai" src="https://img.shields.io/badge/website-tinybig.ai-ff5900?style=for-the-badge"></a>
@@ -53,9 +52,9 @@ a team, with its own models, its own data, and its own rules.
 
 ## What we believe
 
-- Local first. Your data stays on your machine. The cloud is an option.
-- MCP is the connection layer. MCP connects tools, files, and runtimes.
+- Local first. We believe that private AI use is a right, and that inference must not be a private commodity. Every product we make is built for local inference.
 - Control the model. A model is a resource. You route it, limit it, and tune it.
+- No walled gardens. Adapters connect the models and tools you already use, so the parts work together.
 - Open by default. jep is open source, and contributions are welcome.
 
 ## Get involved
