@@ -20,26 +20,26 @@
 tinybig builds AI tools for one person. Each tool gives one person the power of
 a team, with its own models, its own data, and its own rules.
 
-## Products
-
-- visor: a multi-model AI workspace. The workspace runs on your machine. It can
-  connect to the cloud.
-- keep: an offline knowledge app. The app has a local model and signed knowledge
-  packs, which we call casks. The app works without a network and without an
-  account.
-
 ## Open source
 
-- jep: one interface for every coding agent. The core connects opencode, codex,
-  and claude. The Telegram, Android, and gateway clients use the core.
-- labs: research and test builds. We publish a build after it is ready.
+- [jep](https://github.com/tinybig-ai/jep): one interface for every coding
+  agent. The core connects opencode, codex, and claude. The Telegram, Android,
+  and gateway clients use the core.
+- [labs](https://tinybig.ai/labs/): research and test builds. We publish a build
+  after it is ready.
+
+## Products
+
+- [keep](https://tinybig.ai/keep/): an offline knowledge app. The app has a
+  local model and signed knowledge packs, which we call casks. The app works
+  without a network and without an account.
 
 ## What we believe
 
 - Local first. Your data stays on your machine. The cloud is an option.
 - MCP is the connection layer. MCP connects tools, files, and runtimes.
 - Control the model. A model is a resource. You route it, limit it, and tune it.
-- A small team does a large job.
+- Open by default. jep is open source, and contributions are welcome.
 
 ## Get involved
 
