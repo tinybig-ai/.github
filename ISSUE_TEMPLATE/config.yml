@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/tinybig-ai/.github/security/advisories/new
+    about: Report a security problem in private. Do not open a public issue.
+  - name: jep (open source)
+    url: https://github.com/tinybig-ai/jep/issues
+    about: Open a bug or a feature request for jep here.
+  - name: tinybig.ai
+    url: https://tinybig.ai
+    about: Products, documentation, and contact.
