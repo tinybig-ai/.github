@@ -12,7 +12,7 @@
   <p>
     <a href="https://tinybig.ai"><img alt="tinybig.ai" src="https://img.shields.io/badge/website-tinybig.ai-ff5900?style=for-the-badge"></a>
     <a href="https://github.com/tinybig-ai/jep"><img alt="jep on GitHub" src="https://img.shields.io/badge/open%20source-jep-2ca4dd?style=for-the-badge"></a>
-    <a href="mailto:cemre@tinybig.ai"><img alt="email" src="https://img.shields.io/badge/email-cemre%40tinybig.ai-0a0a0b?style=for-the-badge"></a>
+    <a href="mailto:org@tinybig.ai"><img alt="email" src="https://img.shields.io/badge/email-org%40tinybig.ai-0a0a0b?style=for-the-badge"></a>
   </p>
 
 </div>

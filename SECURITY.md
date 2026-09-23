@@ -7,7 +7,7 @@ reports to us.
 
 Do not open a public issue. Use the private report form on the repository that
 has the problem: go to the Security tab, then select Report a vulnerability. You
-can also send email to cemre@tinybig.ai.
+can also send email to org@tinybig.ai.
 
 Include the project, the version, the effect, and the steps that cause the
 problem. We will answer in a few days and tell you our progress.
