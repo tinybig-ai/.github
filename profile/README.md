@@ -57,6 +57,18 @@ a team, with its own models, its own data, and its own rules.
 - No walled gardens. Adapters connect the models and tools you already use, so the parts work together.
 - Open by default. jep is open source, and contributions are welcome.
 
+## Contributors
+
+Thanks to everyone who helps build jep. This list updates itself.
+
+<div align="center">
+
+  <a href="https://github.com/tinybig-ai/jep/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=tinybig-ai/jep" alt="jep contributors" />
+  </a>
+
+</div>
+
 ## Get involved
 
 jep is open source. Read the jep contributing guide, then select a good first
