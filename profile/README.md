@@ -25,8 +25,6 @@ a team, with its own models, its own data, and its own rules.
 - [jep](https://github.com/tinybig-ai/jep): one interface for every coding
   agent. The core connects opencode, codex, and claude. The Telegram, Android,
   and gateway clients use the core.
-- [labs](https://tinybig.ai/labs/): research and test builds. We publish a build
-  after it is ready.
 
 ## Products
 
