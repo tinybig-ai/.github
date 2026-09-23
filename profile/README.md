@@ -22,15 +22,34 @@ a team, with its own models, its own data, and its own rules.
 
 ## Open source
 
-- [jep](https://github.com/tinybig-ai/jep): one interface for every coding
-  agent. The core connects opencode, codex, and claude. The Telegram, Android,
-  and gateway clients use the core.
+<div align="center">
+
+  <a href="https://github.com/tinybig-ai/jep">
+    <img src="https://raw.githubusercontent.com/tinybig-ai/.github/main/profile/assets/jep.png" width="72" alt="jep" />
+  </a>
+
+  <h3><a href="https://github.com/tinybig-ai/jep">jep</a></h3>
+
+  One interface for every coding agent. The core connects opencode, codex, and
+  claude. The Telegram, Android, and gateway clients use the core.
+
+</div>
 
 ## Products
 
-- [keep](https://tinybig.ai/keep/): an offline knowledge app. The app has a
-  local model and signed knowledge packs, which we call casks. The app works
-  without a network and without an account.
+<div align="center">
+
+  <a href="https://tinybig.ai/keep/">
+    <img src="https://raw.githubusercontent.com/tinybig-ai/.github/main/profile/assets/keep.png" width="72" alt="keep" />
+  </a>
+
+  <h3><a href="https://tinybig.ai/keep/">keep</a></h3>
+
+  An offline knowledge app. The app has a local model and signed knowledge
+  packs, which we call casks. The app works without a network and without an
+  account.
+
+</div>
 
 ## What we believe
 
